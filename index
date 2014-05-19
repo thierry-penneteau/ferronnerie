@@ -1,0 +1,40 @@
+<html>
+<head>
+  <title>Penneteau Thierry</title>
+  <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
+</head>
+
+<body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <h1><a href="index.html"><h4>PENNETEAU THIERRY</h4><h6>Ferronnier Metallier</h6></a></h1>
+          <h2>Artisan depuis 10 ans</h2>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+          <li class="selected"><a href="index.html">Accueil</a></li>
+          <li><a href="ferronnerie.html">Ferronnerie</a></li>
+          <li><a href="escalier.html">Escalier</a></li>
+          <li><a href="portail.html">Portail</a></li>
+		  <li><a href="outillage.html">Matériel</a></li>
+		  <li><a href="coordonnees.html">Coordonnées</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="site_content">
+	<p>
+		<div id="texte">
+        <h1>Bienvenue,</h1><p>
+		Artisan dans la ferronnerie/métallerie depuis 2004, Mr Penneteau a su créer et innover dans son domaine.
+		Il sait satisfaire ses clients selon leurs demandes.
+		Ce site vous permettera de découvrir en images ses réalisations. Il est à votre entiére disposition
+		pour de plus amples informations, n'hésitez pas à le contacter!
+		</div>
+	<p><p><p><img src="imagesindex/thierrypenneteau.jpg" alt="thierrypenneteau" id="img" />
+    </div>
+  </div>
+</body>
+</html>
